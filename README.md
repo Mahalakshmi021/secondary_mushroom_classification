@@ -8,7 +8,7 @@ Target variable: class (0 = Edible, 1 = Poisonous)
 All features are categorical and properly encoded before model training.
 
  * Workflow: 
-  * Data Preprocessing
+     * Data Preprocessing
   * Handled missing values
   * Label encoding of categorical variables
   * Standard scaling of features
