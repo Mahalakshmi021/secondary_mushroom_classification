@@ -1,4 +1,4 @@
-#Secondary Mushroom Classification using Machine Learning
+# Secondary Mushroom Classification using Machine Learning
  Project Overview
 This project uses machine learning models to classify mushrooms as edible (0) or poisonous (1) based on their physical features. We used the Secondary Mushroom Dataset from the UCI Machine Learning Repository.
 
