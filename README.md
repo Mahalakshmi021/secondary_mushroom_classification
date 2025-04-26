@@ -7,12 +7,12 @@ Features include: cap shape, cap color, gill attachment, stem color, habitat, et
 Target variable: class (0 = Edible, 1 = Poisonous)
 All features are categorical and properly encoded before model training.
 
- *Workflow: 
-Data Preprocessing
-Handled missing values
-Label encoding of categorical variables
-Standard scaling of features
-Model Training
+ * Workflow: 
+  * Data Preprocessing
+  * Handled missing values
+  * Label encoding of categorical variables
+  * Standard scaling of features
+  * Model Training
 Algorithms used:
 Logistic Regression
 SVM
